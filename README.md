@@ -1,23 +1,3 @@
-# Notice: DoraCMS SQL (基于sequelize) 已发布，开源无限制可商用，觉得好请记得 star 哟！
-[DoraCMS mysql 源码](https://github.com/doramart/DoraCMS-SQL)   
-[DoraCMS mysql 版本预览](https://sql.html-js.cn/) 
-> 数据库通过花生壳连接，可能有所延时
-
-
-# DoraCMS 2.1.7
-
-![DoraCMS](https://ae01.alicdn.com/kf/H114ba4fd0eab4f36a4b16d970e11222dz.png "DoraCMS")
-
-
-## DoraCMS 视频简介
-
-[DoraCMS 视频简介](https://www.bilibili.com/video/av77251776/)  
-
-## DoraCMS 更新日志
-
-[DoraCMS 更新日志](https://www.doracms.com/others/update/)  
-
-
 ## 说明
 
 ### DoraCMS 使用的技术栈：
@@ -27,13 +7,6 @@
 2、vue-cli
 3、mongodb 4+
 ```
-
-文档： [DoraCMS 开发文档](https://www.doracms.com)  
-API： [DoraCMS API文档](https://www.html-js.cn/static/apidoc/index.html)  
-演示地址： [前端开发俱乐部](https://www.html-js.cn)  
-
-后台登录： https://www.html-js.cn/dr-admin  
-测试账号：doracms/123456  
 
 
 ## docker快速体验 `DoraCMS`（本地环境）
@@ -85,7 +58,7 @@ dora create mycms  // 本地/服务器环境任意目录执行
 ```
 http://127.0.0.1:8080  // 开发环境
 http://120.25.150.169:8080  // 生产环境只配了IP，端口号已加入安全组
-https://www.html-js.cn // 生产环境配置了域名并做好了域名解析
+https://www.caishuhua.com // 生产环境配置了域名并做好了域名解析
 
 ```
 
@@ -127,15 +100,6 @@ http://127.0.0.1:8080
 http://127.0.0.1:8080/dr-admin
 登录账号：doramart/123456    doracms/123456
 ```
-
-
-## 技术交流群
-<img width="650" src="http://cdn.html-js.cn/contactbywechatqq1.jpg" alt="">
-
-
-### 捐赠
-如果你发现DoraCMS很有用，可以请生哥喝杯咖啡(⊙o⊙)哦
-<img width="650" src="http://cdn.html-js.cn/payme.jpg" alt="">
 
 # LICENSE
 
